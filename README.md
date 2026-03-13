@@ -128,7 +128,7 @@ This project demonstrates key concepts in machine learning such as:
 ```
 Country-Clustering-KMeans/
 │
-├── KMeans_Country_Clustering.ipynb
+├── KMeans_project.ipynb
 ├── CIA_Country_Facts.csv
 ├── country_iso_codes.csv
 └── README.md
